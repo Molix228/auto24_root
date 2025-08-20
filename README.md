@@ -13,7 +13,7 @@ Clone all of needed repositories to run project.
 
 ```bash
 # root_dir
-git clone https://github.com/Molix228/root_dir
+git clone https://github.com/Molix228/auto24_root
 # api-gateway
 git clone https://github.com/Molix228/api-gateway
 # auth-service
