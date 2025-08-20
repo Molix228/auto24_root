@@ -13,11 +13,11 @@ Clone all of needed repositories to run project.
 
 ```bash
 # root_dir
-git clone https://github/Molix228/root_dir
+git clone https://github.com/Molix228/root_dir
 # api-gateway
-git clone https://github/Molix228/api-gateway
+git clone https://github.com/Molix228/api-gateway
 # auth-service
-git clone https://github/Molix228/auth-service
+git clone https://github.com/Molix228/auth-service
 ```
 
 Go to directory where were cloned all repositories.
