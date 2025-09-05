@@ -15,9 +15,11 @@ Clone all of needed repositories to run project.
 # root_dir
 git clone https://github.com/Molix228/auto24_root
 # api-gateway
-git clone https://github.com/Molix228/api-gateway
+git clone https://github.com/Molix228/auto24_gateway
 # auth-service
-git clone https://github.com/Molix228/auth-service
+git clone https://github.com/Molix228/auto24_auth-service
+# listing-service
+git clone https://github.com/Molix228/auto24_listing
 ```
 
 Go to directory where were cloned all repositories.
