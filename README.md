@@ -1,6 +1,15 @@
 # Auto24 Project Root
 
 It's a root directory of the project. And I want to explain how to setup this project below. Project consists of microservices, that's why you should follow my installation intructions.
+NAVigation between repos:
+
+Microservices:
+https://github.com/Molix228/auto24_gateway
+https://github.com/Molix228/auto24_auth-service
+https://github.com/Molix228/auto24_listing
+
+Frontend:
+https://github.com/Molix228/FrontEndAuto24
 
 ## Requirements
 
